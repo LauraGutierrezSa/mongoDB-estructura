@@ -71,7 +71,7 @@ db.proveedores.insertMany(
      {
        _id: 1,
        nombre: "Eugenia",
-       telefono: "6254912",
+       telefono: "625491226",
        email: "eugenia@mail.com",
        fecha_registro: ISODate("2023-01-03T23:30:15.123Z"),
        recomendado_por: ObjectId("5349b4ddd2781d08c09890f4"),
@@ -103,7 +103,7 @@ db.proveedores.insertMany(
      {
        _id: 2,
        nombre: "Pepe",
-       telefono: "65561515",
+       telefono: "655615157",
        email: "pepepepe@email.com",
        fecha_registro: ISODate("2022-08-03T23:30:15.123Z"),
        recomendado_por: ObjectId("5349b4ddd2781d08c09890f4"),
